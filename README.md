@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Mohamed Reyad — Digital Marketing, Web Design and Automation" />
+  <img src="assets/banner.svg" width="100%" alt="Mohamed Reyad — Digital Marketing, Web Design, AI and Vibe Coding" />
 </p>
 
 <p align="center">
@@ -13,21 +13,21 @@
 
 I'm **Mohamed Reyad**, a digital marketer and website designer. I connect paid advertising, WordPress and ecommerce experiences with SEO and conversion-focused thinking.
 
-This GitHub is where I share front-end projects, Arabic learning resources, and useful automation collections.
+This GitHub is where I share front-end projects, Arabic learning resources, and experiments with AI-assisted development and Vibe Coding.
 
-<p dir="rtl">أنا <strong>محمد رياض</strong>، مسوّق رقمي ومصمم مواقع ومتاجر إلكترونية. بربط الإعلانات الممولة بتجربة الموقع وتحسين التحويل، وبشارك هنا مشاريعي ومصادر تعليمية عربية وأدوات أتمتة مفيدة.</p>
+<p dir="rtl">أنا <strong>محمد رياض</strong>، مسوّق رقمي ومصمم مواقع ومتاجر إلكترونية. بربط الإعلانات الممولة بتجربة الموقع وتحسين التحويل، وبشارك هنا مشاريعي ومصادر تعليمية عربية وتجاربي في استخدام الذكاء الاصطناعي وVibe Coding لبناء المواقع.</p>
 
 ---
 
 ### What I work on
 
-| Performance marketing | Websites & ecommerce | SEO & automation |
+| Performance marketing | Websites & ecommerce | SEO, AI & Vibe Coding |
 | :--- | :--- | :--- |
 | Meta, Google and Snapchat advertising | WordPress, WooCommerce and Shopify | Search visibility and conversion optimization |
-| Campaign planning and media buying | Landing pages and CMS-based stores | AI-assisted workflows and n8n exploration |
+| Campaign planning and media buying | Landing pages and CMS-based stores | AI-assisted development and Vibe Coding |
 
 <p>
-  <img src="assets/skills.svg" width="100%" alt="WordPress, WooCommerce, Shopify, Meta Ads, Google Ads, HTML and CSS, JavaScript and n8n" />
+  <img src="assets/skills.svg" width="100%" alt="WordPress, WooCommerce, Shopify, Meta Ads, Google Ads, HTML and CSS, JavaScript and AI / Vibe Coding" />
 </p>
 
 ### Selected projects
@@ -37,12 +37,11 @@ This GitHub is where I share front-end projects, Arabic learning resources, and 
 | **Personal Portfolio** | A classic HTML/CSS portfolio with services, skills and resume sections. | [Repository](https://github.com/mmagdym1/personal-portfolio-html-css) |
 | **Marketing & WordPress Interview Guide** | An interactive Arabic guide with 52 interview questions, model answers and topic filters. | [Repository](https://github.com/mmagdym1/digital-marketing-wordpress-interview-arabic) |
 | **Morning & Evening Adhkar** | Arabic supplications with repetition counters, progress tracking and morning/evening themes. | [Repository](https://github.com/mmagdym1/adhkar-morning-evening-app) · [Live app](https://mmagdym1.github.io/adhkar-morning-evening-app/) |
-| **n8n Workflow Collection** | A forked collection of reusable automation templates for AI, marketing, CRM and business workflows, with upstream attribution. | [Collection](https://github.com/mmagdym1/n8n-free-automation-templates-5000) |
 | **Classic Front-end Templates** | HTML/CSS and jQuery learning projects with multi-section layouts and interactive effects. | [jQuery template](https://github.com/mmagdym1/responsive-html-css-jquery-template) · [PSD-to-HTML template](https://github.com/mmagdym1/free-psd-to-html-website-template) |
 
 ### Currently exploring
 
-WordPress development · Arabic RTL interfaces · AI-assisted tools · practical business automation
+WordPress development · Arabic RTL interfaces · AI-assisted development · Vibe Coding
 
 ---
 
