@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/repo-icon.svg" width="120" alt="Mohamed Reyad GitHub brand icon" />
+</p>
+
+<p align="center">
   <a href="https://reyad.site/">Portfolio &amp; Services</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-reyad-marketing/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="https://www.behance.net/mohamedmagdy336">Behance</a> &nbsp; / &nbsp;
@@ -34,10 +38,12 @@ This GitHub is where I share front-end projects, Arabic learning resources, and 
 
 | Project | What you'll find | Explore |
 | :--- | :--- | :--- |
-| **Personal Portfolio** | A classic HTML/CSS portfolio with services, skills and resume sections. | [Repository](https://github.com/mmagdym1/personal-portfolio-html-css) |
-| **Marketing & WordPress Interview Guide** | An interactive Arabic guide with 52 interview questions, model answers and topic filters. | [Repository](https://github.com/mmagdym1/digital-marketing-wordpress-interview-arabic) |
-| **Morning & Evening Adhkar** | Arabic supplications with repetition counters, progress tracking and morning/evening themes. | [Repository](https://github.com/mmagdym1/adhkar-morning-evening-app) · [Live app](https://mmagdym1.github.io/adhkar-morning-evening-app/) |
-| **Classic Front-end Templates** | HTML/CSS and jQuery learning projects with multi-section layouts and interactive effects. | [jQuery template](https://github.com/mmagdym1/responsive-html-css-jquery-template) · [PSD-to-HTML template](https://github.com/mmagdym1/free-psd-to-html-website-template) |
+| **Personal Portfolio** | A classic HTML/CSS portfolio with services, skills and resume sections. | [Repository](https://github.com/reyad-dev/personal-portfolio-html-css) |
+| **Marketing & WordPress Interview Guide** | An interactive Arabic guide with 52 interview questions, model answers and topic filters. | [Repository](https://github.com/reyad-dev/digital-marketing-wordpress-interview-arabic) |
+| **Morning & Evening Adhkar** | Arabic supplications with repetition counters, progress tracking and morning/evening themes. | [Repository](https://github.com/reyad-dev/adhkar-morning-evening-app) · [Live app](https://reyad-dev.github.io/adhkar-morning-evening-app/) |
+| **Classic Front-end Templates** | HTML/CSS and jQuery learning projects with multi-section layouts and interactive effects. | [jQuery template](https://github.com/reyad-dev/responsive-html-css-jquery-template) · [PSD-to-HTML template](https://github.com/reyad-dev/free-psd-to-html-website-template) |
+| **MDX Reader** | Offline Markdown viewer/editor with Arabic RTL and mixed Arabic-English bidi support. | [Repository](https://github.com/reyad-dev/mdx-reader) · [Live app](https://reyad-dev.github.io/mdx-reader/) |
+| **ReyadConvert** | Client-side image converter and optimizer for WebP, AVIF, PNG and JPG. | [Repository](https://github.com/reyad-dev/ReyadConvert) · [Live app](https://reyad-dev.github.io/ReyadConvert/) |
 
 ### Currently exploring
 
